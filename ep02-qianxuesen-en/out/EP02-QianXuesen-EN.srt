@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:06,000
+We can predict where it lands.
+What if it changes course?
+
+2
+00:00:06,000 --> 00:00:20,000
+Engine off: only inertia and gravity.
+The path is fixed.
+
+3
+00:00:20,000 --> 00:00:35,000
+Don't fall back down.
+Glide on lift.
+
+4
+00:00:35,000 --> 00:00:46,000
+Seen late: glide low,
+show up late.
+
+5
+00:00:46,000 --> 00:00:56,000
+Hard to reach:
+near space is a gap.
+
+6
+00:00:56,000 --> 00:01:07,000
+Hard to predict: it turns,
+the prediction fails.
+
+7
+00:01:07,000 --> 00:01:12,000
+No fixed parabola,
+no easy prediction.
+Next: pendulum or refraction?
